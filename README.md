@@ -1,1 +1,1 @@
-# Healthcare-SQL-Project
+# Healthcare-Analysis-SQL
